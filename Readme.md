@@ -152,7 +152,7 @@ If you encounter any issues:
 
 ## Contributors
 
-- **Your Name** - *Initial work* - [Adarsh Ajay](https://github.com/Adarsh-Aot)
+- **Adarsh Ajay** - *Initial work* - [Adarsh Ajay](https://github.com/Adarsh-Aot)
 
 ## License
 
