@@ -27,7 +27,7 @@ This project leverages the CrewAI framework to automate the process of researchi
     ```
 2. Navigate to the project directory:
     ```sh
-    cd ai-trend-analysis
+    cd newsai
     ```
 3. Install the required dependencies:
     ```sh
