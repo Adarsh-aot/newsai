@@ -23,11 +23,11 @@ This project leverages the CrewAI framework to automate the process of researchi
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/ai-trend-analysis.git
+    git clone https://github.com/Adarsh-aot/newsai.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd ai-trend-analysis
+    cd newsai
     ```
 3. Install the required dependencies:
     ```sh
@@ -152,7 +152,7 @@ If you encounter any issues:
 
 ## Contributors
 
-- **Your Name** - *Initial work* - [YourGithubUsername](https://github.com/yourgithubusername)
+- **Your Name** - *Initial work* - [Adarsh Ajay](https://github.com/Adarsh-Aot)
 
 ## License
 
